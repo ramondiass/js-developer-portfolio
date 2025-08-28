@@ -16,20 +16,8 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
         "name": "CSS",
-        "logo": "https://github.com/ramondiass/js-developer-portfolio/blob/61dcd70c53b2677d3423277ec654c29bebe8e79f/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/ramondiass/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
     ],
     "softSkills": [
